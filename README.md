@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **arielli.24024@gmail.com**
 
-- 📄 Know about my experiences [https://pdfhost.io/v/hf1M~RC5S_resume](https://pdfhost.io/v/hf1M~RC5S_resume)
+- 📄 Know about my experiences [resume PDF](https://pdfhost.io/v/hf1M~RC5S_resume)
 
 - ⚡ Fun fact **I am willing to learn.**
 
