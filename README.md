@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayumilky" alt="ayumilky" /></a> </p>
-
 - 🔭 I’m currently working on [Tree_Hotel](https://github.com/WaLkINgCodEx/Tree_Hotel)
 
 - 🌱 I’m currently learning **TypeScript, React**
