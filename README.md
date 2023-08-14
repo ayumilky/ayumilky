@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React**
 
-- 👨‍💻 All of my projects are available at [ayumilky.github.io/my-website/](ayumilky.github.io/my-website/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://ayumilky.github.io/my-website/)
 
 - 📫 How to reach me **arielli.24024@gmail.com**
 
