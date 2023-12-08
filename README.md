@@ -10,9 +10,8 @@
 
 - 📫 How to reach me **arielli.24024@gmail.com**
 
-- 📄 Know about my experiences [resume PDF](https://pdfhost.io/v/hf1M~RC5S_resume)
+- 📄 Know about my experiences [resume PDF](https://ayumilky.github.io/my-website/assets/resumepdf.pdf)
 
-- ⚡ Fun fact **I am willing to learn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
