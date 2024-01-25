@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **arielli.24024@gmail.com**
 
-- 📄 Know about my experiences [resume PDF](https://ayumilky.github.io/my-website/assets/resumepdf.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
